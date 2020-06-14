@@ -1,6 +1,6 @@
 {
   "name": "arraypushrotate",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Push data in an array and automatically remove first value when limit is reached",
   "main": "index.js",
   "scripts": {
