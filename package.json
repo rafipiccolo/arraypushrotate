@@ -1,19 +1,19 @@
 {
-  "name": "arraypushrotate",
-  "version": "1.0.2",
-  "description": "Push data in an array and automatically remove first value when limit is reached",
-  "main": "index.js",
-  "scripts": {
-    "test": "mocha"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rafipiccolo/arraypushrotate.git"
-  },
-  "author": "Raphael Piccolo",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rafipiccolo/arraypushrotate/issues"
-  },
-  "homepage": "https://github.com/rafipiccolo/arraypushrotate#readme"
+    "name": "arraypushrotate",
+    "version": "1.0.2",
+    "description": "Push data in an array and automatically remove first value when limit is reached",
+    "main": "index.js",
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rafipiccolo/arraypushrotate.git"
+    },
+    "author": "Raphael Piccolo",
+    "license": "ICS",
+    "bugs": {
+        "url": "https://github.com/rafipiccolo/arraypushrotate/issues"
+    },
+    "homepage": "https://github.com/rafipiccolo/arraypushrotate#readme"
 }
