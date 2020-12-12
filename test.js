@@ -2,7 +2,6 @@ var arraypushrotate = require('./index.js');
 var assert = require('assert');
 
 describe('arraypushrotate', function () {
-
     var array = [];
 
     it('should push and not remove', function () {
