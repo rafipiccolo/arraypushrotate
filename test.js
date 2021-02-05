@@ -1,3 +1,5 @@
+'use strict';
+
 var arraypushrotate = require('./index.js');
 var assert = require('assert');
 
