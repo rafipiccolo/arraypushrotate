@@ -1,5 +1,3 @@
-'use strict';
-
 module.exports = function (array, data, maxsize) {
     array.push(data);
 
